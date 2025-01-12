@@ -529,7 +529,7 @@
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Ειδοποίηση για σύνδεση δικτύου",
 	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "Σύνδεσμος remote",
-	"SETTINGS_COPY_REMOTE_URL": "Αντιγραφή σνδέσμου remote",
+	"SETTINGS_COPY_REMOTE_URL": "Αντιγραφή συνδέσμου remote",
 	"SETTINGS_REMOTE_URL_COPIED": "Ο σύνδεσμος remote αντιγράφηκε στο πρόχειρό σας",
 	"SETTINGS_SECTION_SUBTITLES": "Υπότιτλοι",
 	"SETTINGS_SECTION_AUDIO": "Ήχος",
